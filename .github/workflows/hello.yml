@@ -4,11 +4,7 @@ name: hello
 
 # Evento
 on:
-  # Triggers the workflow on push or pull request events but only for the "integral" branch
- 
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch: 
-
+  push:
 # trabajos
 jobs:
   trabajo1:
