@@ -11,7 +11,7 @@ function App() {
           alt="React Logo"
           style={styles.image}
         />
-        <h2 style={styles.title}>Bienvenido a mi página Web</h2>
+        <h2 style={styles.title}>Bienvenido a mi página Web Desarrollo web INtegral </h2>
         <hr style={styles.separator} />
         <p style={styles.paragraph}>
           Esta simple aplicación está creada con React.
